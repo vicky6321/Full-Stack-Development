@@ -1,0 +1,3 @@
+1. Write a program to create an item collection and clones the items using AngularJS directives.
+2. Write a program to create an HTTP server which can communicate between client and the server.
+
